@@ -22,6 +22,14 @@
 * Prepare application for deployment (appspec.yml & update buildspec.yml).
 * Deploy an application revision.
 
-## Setup CI/CD using AWS CodePipeline
+## Lab3 Setup CI/CD using AWS CodePipeline
+* Create a pipeline.
+* Create CodeDeploy deployment group for production.
+* Edit a pipeline (add stages).
+* Add manual approval action.
+* Approve or reject an approval action in CodePipeline.
 
-## Using Lambda as test stage in CodePipeline 
+## Lab4 Using Lambda as test stage in CodePipeline
+* Create a sample Lambda function.
+* Add the Lambda function to a pipeline in CodePipeline.
+* Test the pipeline with the Lambda function.
